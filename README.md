@@ -1,3 +1,3 @@
 # Dribbble
 
-Using React.js to clone one of the most interesting websites in Design.
+Using React.js to clone Dribbble main page
